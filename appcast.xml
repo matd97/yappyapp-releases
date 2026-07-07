@@ -4,12 +4,12 @@
         <title>YappYapp</title>
         <item>
             <title>0.3.1</title>
-            <pubDate>Tue, 07 Jul 2026 11:52:37 +0200</pubDate>
+            <pubDate>Tue, 07 Jul 2026 13:14:57 +0200</pubDate>
             <sparkle:version>4</sparkle:version>
             <sparkle:shortVersionString>0.3.1</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
             <sparkle:hardwareRequirements>arm64</sparkle:hardwareRequirements>
-            <enclosure url="https://github.com/matd97/yappyapp-releases/releases/download/v0.3.1/YappYapp-0.3.1.dmg" length="8137282" type="application/octet-stream" sparkle:edSignature="P1ox6WggCDFbcMmec8N7XKDJ1ytIdi8QsXAXxxA4CCyVXEc26Ibp+kbmFmJQvCIk83SE+Xvc1QR8SzPA08agBg=="/>
+            <enclosure url="https://github.com/matd97/yappyapp-releases/releases/download/v0.3.1/YappYapp-0.3.1.dmg" length="8086078" type="application/octet-stream" sparkle:edSignature="M5f87HR8CA+DtAiamovcI8s/wj932P4wti32eLPpKLD/mqCOt8uvY7fw2LOk0ydfjx2rtHqa/o6nTRU3iobqAA=="/>
         </item>
     </channel>
 </rss>
