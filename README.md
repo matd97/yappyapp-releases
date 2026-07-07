@@ -22,13 +22,17 @@ If you use the tap, one command installs everything:
 brew install --cask matd97/tap/yappyapp
 ```
 
+Note: recent Homebrew versions keep macOS quarantine on downloads, so the first-open steps above apply to Homebrew installs too. If you want to skip the first-open prompt entirely, run this after installing:
+
+```
+xattr -dr com.apple.quarantine /Applications/YappYapp.app
+```
+
 If you would rather skip the first-open Gatekeeper prompt entirely, use the zero-prompt variant:
 
 ```
-brew install --cask --no-quarantine matd97/tap/yappyapp
 ```
 
-The `--no-quarantine` flag exists because YappYapp is not notarized yet, so it tells macOS to skip the quarantine check that triggers the Open Anyway dance.
 
 ## Updates
 
