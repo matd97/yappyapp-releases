@@ -9,7 +9,7 @@
             <sparkle:shortVersionString>0.3.1</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
             <sparkle:hardwareRequirements>arm64</sparkle:hardwareRequirements>
-            <enclosure url="https://github.com/matd97/yappyapp-releases/releases/download/v0.3.1/YappYapp-0.3.1.dmg" length="8158182" type="application/octet-stream" sparkle:edSignature="CEWrwTsmENSycGMz2A8sI84sTqPNPbYOzPX4pQFl9cUbyj2Qlo3mfkqN5m2xneY2PRcWj+NH6+O2EBEbJH47CA=="/>
+            <enclosure url="https://github.com/migueltorrezd/yappyapp-releases/releases/download/v0.3.1/YappYapp-0.3.1.dmg" length="8158182" type="application/octet-stream" sparkle:edSignature="CEWrwTsmENSycGMz2A8sI84sTqPNPbYOzPX4pQFl9cUbyj2Qlo3mfkqN5m2xneY2PRcWj+NH6+O2EBEbJH47CA=="/>
         </item>
     </channel>
 </rss>
